@@ -1,0 +1,93 @@
+[
+    {
+        "id": "1",
+        "name": "Niagara Falls",
+        "tours": [
+        {
+            "id": "11",
+            "name": "Immerse into the Falls",
+            "duration": 5,
+            "rating": 4.5,
+            "numberOfReviews": 462,
+            "price": 109.95,
+            "image": "https://tcproduction.blob.core.windows.net/media/%7B240f8b72-1159-4fd3-a150-0a837f50ba4a%7D.2573758641_297d6d19fa_o.jpg",
+            "about": "Niagara Falls, Ontario, is a Canadian city at the famous waterfalls of the same name, linked with the U.S. by the Rainbow Bridge. Its site on the Niagara River's western shore overlooks the Horseshoe Falls, the cascades' most expansive section. Elevators take visitors to a lower, wetter vantage point behind the falls. A cliffside park features a promenade alongside 520-ft.-high Skylon Tower with an observation deck."
+        },
+        {
+            "id": "22",
+            "name": "Helicopter Over the Falls",
+            "duration": 8,
+            "rating": 3.5,
+            "numberOfReviews": 641,
+            "price": 169.95,
+            "image": "https://d2ru2mvuh5wx24.cloudfront.net/avtivity_bootstrap/1241/flight_of_angels_3__1920x864.jpg",
+            "about": "As the helicopter gently lifts off from its base location, the awe-inspiring views of the Niagara Region begin to appear below. Cameras should be ready to go right from the start! Beginning with the Sir Adam Beck Generating plant and the Niagara Parks Commission School of Horticulture, the tour follows the Niagara River from the Whirlpool area (look for the Spanish Aero Car crossing the gorge), over the Whirlpool Rapids and the Rainbow Bridge. The green grass and floral beauty of Queen Victoria Park stretches below as the helicopter passes by the American Falls and the Skylon Tower. Just when it looks as if you may reach the Minolta Tower, the helicopter begins to change direction as if following the curve of the Canadian Horseshoe Falls! Rainbows appear and disappear from all directions. The helicopter begins to level off and continues along the route back to base. The heliport is centrally located along the Niagara Parkway, just minutes from the Falls. Niagara Falls Helicopter Rides are honored to welcome thousands of visitors from all over the world each year. For your convenience, individual headsets with taped commentary are available in 12 languages including English, French, German, Japanese, Spanish, Italian and more. On-site services include a Gift Shop featuring exclusive Niagara Helicopters collectibles, a Gourmet Cafe serving hot and cold meals and a Photography Lab producing personalized, high-quality photos of you and your loved ones. So make your reservations today, get your eTickets and take the ride of your life with Niagara Falls Helicopter Rides!"
+        },
+        {
+            "id": "33",
+            "name": "The Falls at Night",
+            "duration": 2,
+            "rating": 4.5,
+            "numberOfReviews": 133,
+            "price": 149.95,
+            "image": "https://www.niagarafallsstatepark.com/~/media/parks/niagara-falls/attractions-and-tours/illumination/niagarafalls-illumination-header-desktop.jpg?h=500&w=1500&la=en&hash=123E6D5F1744FBCC74EC36570E77872608D24891g",
+            "about": "If you think the Falls put on a show by day, wait until you see Niagara Falls at night. Niagara Falls' nightly illuminations transform the water wonder into a kaleidoscopic cascade of color — 365 nights a year. ... Enjoy the Niagara Falls night lights until 2. a.m. in the summer. Niagara County may be known for its wines, but beer lovers will find plenty of local craft brews to sample — and plenty of delicious snacks to nibble on at the brewery. Head to New York Beer Project in Lockport for standbys and seasonals with a side of beef-on-weck sliders, wings and beer-cheese mac and cheese. In Wilson, or North Tonawanda, don’t miss Woodcock Bros Brewing Company, serving solid brews and solid pub fare: think spent grain pretzels and wood-fired pizzas."
+        },
+        {
+            "id": "44",
+            "name": "Maid of the Mist Boat Tour",
+            "duration": 2,
+            "rating": 4.5,
+            "numberOfReviews": 933,
+            "price": 179.95,
+            "image": "https://www.niagarafallsstatepark.com/~/media/parks/niagara-falls/headers/niagarafalls-maid-of-the-mist-2021-desktop.jpg?mw=1500&hash=C5DBE4CE51DC94043507460F0B86D808EA090A8F",
+            "about" : "The Maid of the Mist is a sightseeing boat tour of Niagara Falls, starting and ending on the American side, crossing briefly into Canada during a portion of the trip. The fleet currently consists of two vessels, both of which launched in 2020. The James V. Glynn was named in honor of the Maid of the Mist Chairman and CEO, who in 2020 celebrated 70 years with the company, and the Nikola Tesla, for the man who invented the alternating current (AC) motor, the standard form of electricity that is used in American homes to this day. Tesla’s invention prompted George Westinghouse to invite him to join his team that won the bid to build the power plant at Niagara Falls.[1] Prior to the current two boats, all prior ships had been named Maid of the Mist, dating back to 1846. The first ships were steam powered; these were replaced by diesel-powered vessels from 1955 until 2019, with the current two boats powered by lithium-ion battery-powered electric motors."
+        }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Las Vegas",
+        "tours": [
+        {
+            "id": "55",
+            "name": "All Around the World",
+            "duration": 5,
+            "rating": 4.5,
+            "numberOfReviews": 462,
+            "price": 89.95,
+            "image": "https://assets.simpleviewcms.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/lasvegas/strip_b86ddbea-3add-4995-b449-ac85d700b027.jpg"
+        },
+        {
+            "id": "66",
+            "name": "View the Casinos",
+            "duration": 5,
+            "rating": 4.5,
+            "numberOfReviews": 462,
+            "price": 99.95,
+            "image": "https://s3.amazonaws.com/virginhotelslv.com/content/uploads/2021/04/Website-Hero-Images-Mohegan-Sun-B-1300x420-1.jpg",
+            "about": "Las Vegas has been the talk of the tinsel world not just from today, but for the last many years, as the world’s most famous casino resort town. Today Vegas is much more than an entertainment site, where people have a strong interest in high-stakes gambling and the world of show business. If you are looking forward to turning the luck higher on your interest then, surely las vegas casino guarantees sunshine filled with luck to you and can ensure that you would have a scintillating enjoyment. Although one thing in this run you cannot forget that each of the casinos has its unique characteristics, that leave the visitors to yearn for more. Las Vegas for you to choose from…"
+        },
+        {
+            "id": "77",
+            "name": "Emerald Cave Kayak Tour ",
+            "duration": 8,
+            "rating": 3.5,
+            "numberOfReviews": 641,
+            "price": 229.95,
+            "image": "https://www.visitarizona.com/imager/files_idss_com/C375/31797d67-f4aa-4102-b37e-da42ce9efcfe_70e0b117ab6f15d516450a3495868467.jpg",
+            "about" : "Experience the serenity of Emerald Cave, a picturesque natural attraction on the Colorado River. This kayaking tour takes a small group max of 15 people paddling up the river with a guide. Stop for snacks and swimming along the way. Round-trip hotel transport is provided from Las Vegas to Willow Beach in Arizona."
+        },
+        {
+            "id": "88",
+            "name": "Las Vegas Helicopter Night Flight",
+            "duration": 2,
+            "rating": 4.5,
+            "numberOfReviews": 133,
+            "price": 109.95,
+            "image": "https://assets.simpleviewcms.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/lasvegas/strip_b86ddbea-3add-4995-b449-ac85d700b027.jpg",
+            "about": "See the bright lights of the Las Vegas Strip and the surrounding region during this nighttime helicopter flight. Soar over this famous stretch of Las Vegas Boulevard with an exclusive sightseeing tour of Sin City’s downtown skyline and beyond, including the Bellagio, the Mirage, and the Fremont Street Experience. Your flight covers approximately 20 miles (32 kilometers) and includes a celebratory glass of sparkling wine. There are a variety of departure times available throughout the evening to fit into almost any schedule. Hotel pickup and drop-off by Mercedes Sprinter is included (if option selected). ** Please note weight restrictions on the helicopter **"
+        }
+        ]
+    }
+]
